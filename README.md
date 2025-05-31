@@ -46,6 +46,26 @@ Database:
 MongoDB collections: hives, crops.
 Uses Mongoose for schema modeling.
 
+📂 Folder Structure
+humble_bee_full_stack_assignent/
+├── controller/
+│   ├── hiveController.js
+│   └── cropController.js
+├── models/
+│   ├── Hive.js
+│   └── Crop.js
+├── routes/
+│   ├── hiveRoutes.js
+│   └── cropRoutes.js
+├── swagger/
+│   └── swaggerConfig.js
+├── postman/
+│   └── BeeTrail.postman_collection.json
+├── .env
+├── server.js
+├── README.md
+
+
 Swagger Ui
 ![image](https://github.com/user-attachments/assets/7d95d1a8-df9d-424e-8c8f-637e0adb18d8)
 
