@@ -46,5 +46,14 @@ Database:
 MongoDB collections: hives, crops.
 Uses Mongoose for schema modeling.
 
+Swagger Ui
 ![image](https://github.com/user-attachments/assets/7d95d1a8-df9d-424e-8c8f-637e0adb18d8)
+
+
+CSV log file
+![image](https://github.com/user-attachments/assets/56a50105-a15f-40ba-a15d-cdf0ca7fcdd9)
+
+
+
+
 
